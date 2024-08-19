@@ -1,8 +1,6 @@
-[![Ceasefire_Now-techforpalestine.org](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_Ceasefire_Now-techforpalestine.org-D83838?color=D83838)](https://www.techforpalestine.org)
+# KodeWuji
 
-# LiveCodes
-
-Code Playground That Just Works!
+Code Playground for 90+ Languages & Frameworks!
 
 <p align="center">
 <img width="300" src="https://dev.livecodes.io/docs/img/livecodes-logo.svg"></img>
@@ -121,7 +119,7 @@ Add this code to your page:
 
 For details check the [full list of features](https://livecodes.io/docs/features/).
 
-## LiveCodes SDK
+## KodeWuji SDK
 
 The Software Development Kit (SDK) provides an easy, yet powerful, interface to embed and communicate with LiveCodes playgrounds.
 
@@ -220,70 +218,6 @@ Contributions are welcome and highly appreciated.
 
 Please refer to the [contribution guide](https://github.com/live-codes/livecodes/blob/HEAD/CONTRIBUTING.md)
 
-## Credits
-
-LiveCodes uses services that are generously provided by:
-
-<p>
-<a href="https://pages.cloudflare.com/" target="_blank" title="Cloudflare Pages">
-  <img alt="Cloudflare Pages" width="200" src="https://dev.livecodes.io/docs/img/credits/cloudflare-pages.svg">
-</img></a><br /><br />
-</p>
-<p>
-<a href="https://www.jsdelivr.com/" target="_blank" title="jsDelivr">
-  <img alt="jsDelivr" width="200" src="https://dev.livecodes.io/docs/img/credits/jsdelivr.svg">
-</img></a><br /><br />
-</p>
-<p>
-<a href="https://esm.sh/" target="_blank" title="esm.sh">
-  <img alt="esm.sh" width="200" src="https://dev.livecodes.io/docs/img/credits/esm.sh.png">
-</img></a><br /><br />
-</p>
-<p>
-<a href="https://unpkg.com/" target="_blank" title="unpkg">
-  <img alt="unpkg" width="200" src="https://dev.livecodes.io/docs/img/credits/unpkg.png">
-</img></a><br /><br />
-</p>
-<p>
-<a href="https://codeium.com/" target="_blank" title="Codeium">
-  <img alt="Codeium" width="200" src="https://dev.livecodes.io/docs/img/credits/codeium.svg">
-</img></a><br /><br />
-</p>
-<p>
-<a href="https://bundlejs.com/" target="_blank" title="bundlejs">
-  <img alt="bundlejs" width="200" src="https://dev.livecodes.io/docs/img/credits/bundlejs.jpg">
-</img></a><br /><br />
-</p>
-<p>
-<a href="https://dpaste.com/" target="_blank" title="dpaste">
-  <img alt="dpaste" width="200" src="https://dev.livecodes.io/docs/img/credits/dpaste.png">
-</img></a><br /><br />
-</p>
-<p>
-<a href="https://github.com/" target="_blank" title="GitHub">
-  <img alt="GitHub" width="200" src="https://dev.livecodes.io/docs/img/credits/github.png">
-</img></a><br /><br />
-</p>
-<p>
-<a href="https://www.sonarsource.com/products/sonarcloud/" target="_blank" title="SonarCloud">
-  <img alt="SonarCloud" width="200" src="https://dev.livecodes.io/docs/img/credits/sonarcloud.svg">
-</img></a><br /><br />
-</p>
-<p>
-<a href="https://www.codacy.com/" target="_blank" title="Codacy">
-  <img alt="Codacy" width="200" src="https://dev.livecodes.io/docs/img/credits/codacy.svg">
-</img></a><br /><br />
-</p>
-<p>
-<a href="https://bundlewatch.io/" target="_blank" title="BundleWatch">
-  <img alt="BundleWatch" width="200" src="https://dev.livecodes.io/docs/img/credits/bundlewatch.svg">
-</img></a><br /><br />
-</p>
-<p>
-<a href="https://www.browserstack.com/" target="_blank" title="BrowserStack">
-  <img alt="BrowserStack" width="200" src="https://dev.livecodes.io/docs/img/credits/browserstack.svg">
-</img></a><br /><br />
-</p>
 
 ## Third Party Packages
 
@@ -292,11 +226,3 @@ Packages used by LiveCodes and their licenses are [listed here](https://github.c
 ## License
 
 [MIT](https://github.com/live-codes/livecodes/blob/HEAD/LICENSE) License © [Hatem Hosny](https://github.com/hatemhosny)
-
-## Sponsor
-
-LiveCodes is free and open-source. The app does not contain ads or require subscription. It allows unlimited usage without any restrictions.
-
-By sponsoring LiveCodes, you will be supporting the ongoing development and maintenance of the project, as well as helping to ensure that it remains a valuable resource for the developer community.
-
-Please consider [becoming a sponsor](https://livecodes.io/docs/sponsor).
